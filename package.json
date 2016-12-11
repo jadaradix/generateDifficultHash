@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/jadaradix/generateDifficultHash",
   "dependencies": {
-    "md5": "^2.0.0"
+    "md5": "^2.2.1"
   }
 }
