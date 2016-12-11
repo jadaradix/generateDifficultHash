@@ -1,0 +1,21 @@
+{
+  "name": "generateDifficultHash",
+  "version": "1.2.0",
+  "description": "A tiny module for generating hashes.",
+  "main": "index.js",
+  "directories": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jadaradix/generateDifficultHash"
+  },
+  "author": "James Garner <j@jada.io> (http://jada.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jadaradix/generateDifficultHash/issues"
+  },
+  "homepage": "https://github.com/jadaradix/generateDifficultHash",
+  "dependencies": {
+    "md5": "^2.0.0"
+  }
+}
